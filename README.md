@@ -7,7 +7,7 @@ Follow these steps to set up Repo locally:
 
 1. Clone the repository: 
 ```
-git clone https://github.com/Maran1947/multi-select-chip-component.git
+
 ```
 
 2. Install the required dependencies:
